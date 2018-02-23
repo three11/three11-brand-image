@@ -1,2 +1,3 @@
-# three11-brand-image
+# Three 11 LTD Logo
+
 Company's brand image
