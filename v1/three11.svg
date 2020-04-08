@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="510" height="510" viewBox="0 0 510 510">
-  <g fill="none" fill-rule="evenodd" transform="translate(5 5)">
-    <circle cx="250" cy="250" r="250" fill="#6C37B7" stroke="#192282" stroke-width="10"/>
-    <text fill="#FFF" font-family="NovaMono" font-size="80" letter-spacing="-.6">
-      <tspan x="9" y="275">&lt;</tspan> <tspan x="53.322" y="275" font-size="90">three11</tspan> <tspan x="402.882" y="275">/&gt;</tspan>
-    </text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="510" viewBox="0 0 510 510"><g fill="none" fill-rule="evenodd" transform="translate(5 5)"><circle cx="250" cy="250" r="250" fill="#6C37B7" stroke="#192282" stroke-width="10"/><text fill="#FFF" font-family="NovaMono" font-size="80" letter-spacing="-.6"><tspan x="9" y="275">&lt;</tspan> <tspan x="53.322" y="275" font-size="90">three11</tspan> <tspan x="402.882" y="275">/&gt;</tspan></text></g></svg>
